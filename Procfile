@@ -1,1 +1,1 @@
-web: gunicorn codestar-django-apple.wsgi
+web: gunicorn codestar.wsgi
