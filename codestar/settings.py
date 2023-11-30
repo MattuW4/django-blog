@@ -35,7 +35,7 @@ DEBUG = True
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 ALLOWED_HOSTS = ["mb2test.herokuapp.com", "localhost",
-                 '8000-mattuw4-django-blog-2ypoiivptr.us2.codeanyapp.com']
+                 '8000-mattuw4-django-blog-2ypoiivptr.us2.codeanyapp.com', 'codestar-django-apple-066ca89694f9.herokuapp.com']
 
 
 # Application definition
